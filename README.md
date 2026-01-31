@@ -1,0 +1,2 @@
+# simple_edid_reader_python
+simple_edid_reader_python
